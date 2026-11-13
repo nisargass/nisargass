@@ -20,7 +20,7 @@
 ## 🎯 Currently Focusing On
 
 - Strengthening Data Structures and Algorithms.
-- Learning React and modern web development.
+- Learning JS ,React and modern web development.
 - Exploring AI and software development.
 - Contributing to open-source projects.
 
